@@ -5,8 +5,7 @@ Get the current Date (YYYYMMDD) and Time (HHMMSS) in Command Prompt.
 * [Running the Script](#running-the-script)
 
 #### <a name="setup"></a>Setup
-1. Download and extract the `get-date-time.zip` under your `USERPROFILE`.
-You can download and extract it anywhere, but for this example, we're using the `USERPROFILE`. 
+1. Under your `USERPROFILE`, extract the `get-date-time.zip`.
 
 #### <a name="running-the-script"></a>Running the Script
 1. Open `cmd.exe` and change the directory to `get-date-time`.
